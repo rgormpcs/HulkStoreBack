@@ -11,4 +11,5 @@ public class GreetingController {
     public String getMessage() {
         return "hello from controller 🏋️";
     }
+
 }
