@@ -2,8 +2,6 @@ package com.todo1.HulkStoreBack;
 
 import com.todo1.HulkStoreBack.entities.Product;
 import com.todo1.HulkStoreBack.service.ProductService;
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
 
